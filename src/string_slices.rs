@@ -9,12 +9,11 @@ fn main() {
     let word = first_word(&my_string);
 //// flkmdsalkfmdslkfmsdaklfmasldfmdsalkmflsdakmfldskmaflkmsdaflkmsdalfkmsadlfkmsadlkfmsdlakmflkmfdsafsdfsdafsdaf
 /// fdsaf;;d;d[d[]]
+/////fdsalf;dsa;lfadskg;dsalkadgs;lkg;ldsa;lkgs;dlkgfds;lakf;dslafkads;lfk;sdkfds;klf
 
     // `first_word` works on slices of string literals, whether partial or whole
-    let word = first_word(&my_string_literal[0..6]);
-    let word = first_word(&my_string_literal[..]);
+    let word = first_word(&my_string_literal[0..6]);///g,dfsgfaf;ldsa;lfads;ldfs;lfds;,la,;l
 
     // Because string literals *are* string slices already,
     // this works too, without the slice syntax!
-    let word = first_word(my_string_literal);
 }
