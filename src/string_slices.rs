@@ -6,7 +6,7 @@ fn main() {
     let word = first_word(&my_string[..]);
     // `first_word` also works on references to `String`s, which are equivalent
     // to whole slices of `String`s
-    let word = first_word(&my_string);
+   ///fdasfdsfdsffdsa
 //// flkmdsalkfmdslkfmsdaklfmasldfmdsalkmflsdakmfldskmaflkmsdaflkmsdalfkmsadlfkmsadlkfmsdlakmflkmfdsafsdfsdafsdaf
 /// fdsaf;;d;d[d[]]
 /////fdsalf;dsa;lfadskg;dsalkadgs;lkg;ldsa;lkgs;dlkgfds;lakf;dslafkads;lfk;sdkfds;klf
