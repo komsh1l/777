@@ -7,8 +7,8 @@ fn main() {
     // `first_word` also works on references to `String`s, which are equivalent
     // to whole slices of `String`s
     let word = first_word(&my_string);
-
-    let my_string_literal = "hello world";
+//// flkmdsalkfmdslkfmsdaklfmasldfmdsalkmflsdakmfldskmaflkmsdaflkmsdalfkmsadlfkmsadlkfmsdlakmflkmfdsafsdfsdafsdaf
+/// fdsaf;;d;d[d[]]
 
     // `first_word` works on slices of string literals, whether partial or whole
     let word = first_word(&my_string_literal[0..6]);
